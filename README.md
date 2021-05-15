@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+THERE MUST BE A SEMICOLON MISSING IN HERE SOMEWHERE
+
 <!--
 **viikkkas/viikkkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
