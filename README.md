@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=viikkkas&style=flat-square)
+
 ### Hi there 👋
 
 There must be a semicolon missing somewhere in here!!
